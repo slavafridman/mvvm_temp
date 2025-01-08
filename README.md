@@ -1,3 +1,3 @@
-# arc_temp
+# MVVM EXAMPLE
 
-A new Flutter project.
+MVVM Study project for undersand arcitecture issues.
